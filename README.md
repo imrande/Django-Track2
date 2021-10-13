@@ -8,3 +8,5 @@
 - Exit virtual env type `exit` or `CTRL + d`
 - Django project `django-admin startproject "NameOfProject" .` [ with or without dot(.)]
 - Remove venv `pipenv --rm`.. It will be deleted virtualenv for this current project
+- Make requirements.txt file --> `pip freeze > requirements.txt`
+- Install all dependencis after clone -> `pip install` -> `pipenv install -r requirements.txt`
