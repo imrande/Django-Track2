@@ -1,12 +1,14 @@
 # Django Installation via Virtualenv [pipenv]
 
-- Go to the directory and type `pip install pipenv`.
-- After it has been installed successfully type `pipenv shell`
-- It will create virtual env and type  `pipenv install django` for django
-- type `pipenv --venv` for showing the location where virtual env has been created
-- Activate virtual env type `pipenv shell`
-- Exit virtual env type `exit` or `CTRL + d`
-- Django project `django-admin startproject "NameOfProject" .` [ with or without dot(.)]
+Pipenv Doc — https://pipenv-fork.readthedocs.io/
+
+- Go to the directory and type `pip install pipenv`
+- After it has been installed successfully type `pipenv install`
+- It will create new virtualenv and activate venv type `pipenv shell`
+- Install django type `pipenv install django`
+- type `pipenv --venv` to check is there any venv for this current project & if satisfied it will show location else return no venv has been created
+- Exit virtual env type `exit` or `CTRL + d` & back to normal prompt
+- Create Django project `django-admin startproject "NameOfProject" .`
 - Remove venv `pipenv --rm`.. It will be deleted virtualenv for this current project
-- Make requirements.txt file --> `pip freeze > requirements.txt`
+- Create requirements.txt file --> `pip freeze > requirements.txt`
 - Install all dependencis after clone -> `pip install` -> `pipenv install -r requirements.txt`
