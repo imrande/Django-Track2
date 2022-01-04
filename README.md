@@ -11,6 +11,8 @@ Pipenv Doc — https://pipenv-fork.readthedocs.io/
 - type `pipenv --venv` to check is there any venv for this current project & if satisfied it will show location else return no venv has been created
 - Exit virtual env type `exit` or `CTRL + d` & back to normal prompt
 - Create Django project `django-admin startproject "NameOfProject" .`
+- Create django app `python manage.py startapp "NameofApp"`
+- Migration command `python manage.py makemigrations` then `python manage.py migrate`
 - Remove venv `pipenv --rm`.. It will be deleted virtualenv for this current project
 - Create requirements.txt file --> `pip freeze > requirements.txt`
 - Install all dependencis after clone -> `pip install` -> `pipenv install -r requirements.txt`
