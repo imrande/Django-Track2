@@ -1,8 +1,9 @@
 # Django & FastAPI
 
-## Django Installation via Virtualenv
+- Pipenv Doc — https://pipenv-fork.readthedocs.io/
+- Django 2.x Books — https://books.agiliq.com/en/latest/README.html
 
-Pipenv Doc — https://pipenv-fork.readthedocs.io/
+## Django Installation via Virtualenv
 
 - Go to the directory and type `pip install pipenv`
 - After it has been installed successfully type `pipenv install`
