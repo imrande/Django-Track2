@@ -36,3 +36,5 @@
         - [WorkShop](https://www.youtube.com/playlist?list=PLY_che_OEsX2KIIqShIrNgoxvBgNJP_ye)
     - [Django & FastAPI Conf Playlist](https://www.youtube.com/playlist?list=PLshEJn4_ZJAawWMcHoHM_zTKCzjkgSnFY)
 - [Python & Django Projects](https://www.youtube.com/playlist?list=PLshEJn4_ZJAYffGl55VlOWJYoKIK7bzjv) `v2`
+- [Advanced Django Training](https://django-advanced-training.readthedocs.io/en/latest/)
+- [Advanced Django: Mastering Django and Django Rest Framework Specialization](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework)
