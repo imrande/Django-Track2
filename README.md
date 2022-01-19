@@ -23,10 +23,7 @@
 
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
 - [Full Stack Web Development with Python & Django 1.x by Durga `mesutramseey`](https://www.youtube.com/playlist?list=PL1pDVBmUq2HS_Uri7Begq3aOBLlFQ52pp) `v1`
-- The Ultimate Django Series `imranxcodes` — Mosh Hamedani `v2`
-    - [Part 1](https://www.youtube.com/playlist?list=PLbBgYZ5DGdebH94laT67H6yLw303bThB5)
-    - [Part 2](https://www.youtube.com/playlist?list=PLbBgYZ5DGdeb4xkHKIA_hqxcQh0bAR0pR)
-    - [Part 3](https://www.youtube.com/playlist?list=PLbBgYZ5DGdeZBCP5-XTmzk9oIQ6pqm9WX)
+- [The Ultimate Django Series](https://codewithmosh.com/p/the-ultimate-django-series) — Mosh Hamedani `v2`
 - [Speed Up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) — Adam Johnson `v3`
 - [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x) — Audrey Roy Greenfeld and Daniel Roy Greenfeld `v3`
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) — Dennis Byrne `v3`
