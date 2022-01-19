@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{% block title %} Home Page {% endblock %}</title>
+	<link rel="stylesheet" href="{% static 'first_app/css/style.css' %}">
+</head>
+<body>
+	<h1> {{ user }}'s Favorite books</h1>
+	<ul>
+		{% for book in books %}
+			<li>{{forloop.counter}} {{ book }}</li>
+		{% endfor %}
+	</ul>
+
+	<h1> {{ value }}</h1>
+	<ul>
+		<li>Lower filter: {{ value|lower }}</li>
+		<li>Upper filter: {{ value|upper }}</li>
+		<li>Title filter: {{ value|title }}</li>
+		<li>Length filter: {{ value|length }}</li>
+		<li>Make list filter: {{ value|make_list }}</li>
+		{# <li>Cut filter: {{ value|cut:" " }}</li> #}
+	</ul>
+
+	<img src="{% static 'first_app/images/abcd.jpg' %}" alt="Uh Oh,didn't show!">
+</body>
+</html>
