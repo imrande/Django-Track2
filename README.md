@@ -34,7 +34,7 @@
 ## Django Track
 
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
-- [Full Stack Web Development with Python & Django 1.x by Durga `mesutramseey`](https://www.youtube.com/playlist?list=PL1pDVBmUq2HS_Uri7Begq3aOBLlFQ52pp) `v1`
+- [Full Stack Web Development with Python & Django 1.x by Durga `mesutramsey`](https://www.youtube.com/playlist?list=PL1pDVBmUq2HS_Uri7Begq3aOBLlFQ52pp) `v1`
 - [The Ultimate Django Series](https://codewithmosh.com/p/the-ultimate-django-series) — Mosh Hamedani `v2`
 - [Speed Up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) — Adam Johnson `v3`
 - [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x) — Audrey Roy Greenfeld and Daniel Roy Greenfeld `v3`
